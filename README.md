@@ -1,6 +1,6 @@
 # hello-word
-my first rep
-line 1
-  1.1
-  1.2
+my first rep\n
+line 1\n
+\t1.1\n
+\t1.2\n
 # note
